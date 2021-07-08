@@ -1,0 +1,1 @@
+ - list_of_suffixes contains the list of all names that will be checked in a comparison. It must be updated every time a new platform is added.
