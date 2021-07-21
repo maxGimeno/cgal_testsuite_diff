@@ -67,7 +67,11 @@ results_cgaltester_x86-64_Darwin-18.2_Apple-clang-default_Release.txt
 results_monet_x86_64-apple_mojave_clang1001-release-64bits.txt
 results_magritte_x86_64-apple_highsierra_clang1000-release-64bits.txt
 results_lrineau_Ubuntu-GCC_master_CXX20-Release.txt
-results_lrineau_Fedora-rawhide.txt
-results_lrineau_Fedora-rawhide-Release.txt
 results_lrineau_Debian-Stable.txt
 results_monet_x86_64-apple_catalina_clang1200-release-64bits.txt
+results_magritte_arm64-apple_bigsur_clang1200-release-64bits.txt
+results_cgaltester_x86-64_Darwin-18.5_Apple-clang-default_Release.txt
+results_Sosno_MSVC-2019-Community-Release.txt
+results_Sosno_MSVC-2019-Preview-Release.txt
+results_Sosno_MSVC-2022-Preview-Release.txt
+results_lrineau_ArchLinux-clang-CXX20-Release.txt
